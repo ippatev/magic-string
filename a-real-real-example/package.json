@@ -1,0 +1,18 @@
+{
+  "name": "a-real-real-example",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^4.0.0"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "magic-string": "^0.27.0"
+  }
+}
